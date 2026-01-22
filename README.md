@@ -1,1 +1,0 @@
-# Python-il-Apple-vs-Microsoft-s-hm-analizi-vizualla-d-rma-
