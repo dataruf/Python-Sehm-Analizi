@@ -1,3 +1,5 @@
+<img width="998" height="347" alt="ddddddddd" src="https://github.com/user-attachments/assets/445cf99a-c2d3-43c2-9803-48a60ca39a5b" />
+
 # AAPL & MSFT Səhm Analizi (2025-2026)
 
 Bu layihə, texnologiya nəhəngləri olan **Apple (AAPL)** və **Microsoft (MSFT)** şirkətlərinin səhm qiymətlərinin zaman daxilində dəyişməsini və bir-biri ilə olan korrelyasiyasını analiz edir. Analiz 2025-ci ilin əvvəlindən 2026-cı ilin yanvar ayına qədər olan dövrü əhatə edir.
